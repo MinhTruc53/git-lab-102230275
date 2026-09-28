@@ -5,5 +5,6 @@
 - MSSV: 102230275
 - Lớp: 23T_DT2
 - Github: MinhTruc53
+- Cộng tác: Nguyên Thục
 ## Mục tiêu
 Tìm hiểu Git và GitHub
